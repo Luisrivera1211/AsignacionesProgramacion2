@@ -2,7 +2,7 @@
 En este repositorio estare subiendo mis asignaciones y proyectos de Programacion 2.
 
 ## Autor
-**Luis Alberto Moscoso**
+**Luis Alberto Moscoso**,
 **Matricula: 2025-2065**
 
 ## Contenido del repositorio
