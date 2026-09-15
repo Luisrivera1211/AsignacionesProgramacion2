@@ -10,7 +10,6 @@ En este repositorio estare subiendo mis asignaciones y proyectos de Programacion
 | # | Asignación | Descripción | Tecnología |
 |---|-----------|-------------|------------|
 | 1 | Sistema de Nómina | Gestión de pagos semanales con polimorfismo dinámico | C# / .NET 10.0 |
-| 2 | Sistema de Gestion de Citas | Gestión de citas medicas, creado con Principios Arquitectonicos | C# / .NET 10.0 |
 
 ## Tecnologías
 - C# / .NET 10.0
