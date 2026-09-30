@@ -1,0 +1,16 @@
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\bin\Debug\net10.0\SistemaGestionCitasMedicas.exe
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\bin\Debug\net10.0\SistemaGestionCitasMedicas.deps.json
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\bin\Debug\net10.0\SistemaGestionCitasMedicas.runtimeconfig.json
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\bin\Debug\net10.0\SistemaGestionCitasMedicas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\bin\Debug\net10.0\SistemaGestionCitasMedicas.pdb
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.AssemblyInfo.cs
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.sourcelink.json
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\refint\SistemaGestionCitasMedicas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.pdb
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaGestionCitasMedicas.genruntimeconfig.cache
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\ref\SistemaGestionCitasMedicas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitasMedicas\SistemaGestionCitasMedicas\obj\Debug\net10.0\SistemaG.8A37820F.Up2Date
